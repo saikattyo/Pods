@@ -1,0 +1,6 @@
+framework module Pods_radiox {
+  umbrella header "Pods-radiox-umbrella.h"
+
+  export *
+  module * { export * }
+}
