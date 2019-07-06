@@ -189,7 +189,6 @@ PODS:
   - libwebp/utils (1.0.2):
     - libwebp/core
   - libwebp/webp (1.0.2)
-  - LineSDK (4.1.1)
   - nanopb (0.3.901):
     - nanopb/decode (= 0.3.901)
     - nanopb/encode (= 0.3.901)
@@ -211,7 +210,6 @@ DEPENDENCIES:
   - Firebase/Storage
   - FirebaseDatabase
   - FirebaseUI
-  - LineSDK (~> 4.1.1)
   - SDWebImage
   - SDWebImage/WebP
 
@@ -239,7 +237,6 @@ SPEC REPOS:
     - GTMSessionFetcher
     - leveldb-library
     - libwebp
-    - LineSDK
     - nanopb
     - Protobuf
     - SDWebImage
@@ -267,11 +264,10 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
   libwebp: b068a3bd7c45f7460f6715be7bed1a18fd5d6b48
-  LineSDK: 4d0a483f5435e911911810476717417669b5b178
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   Protobuf: 7a877b7f3e5964e3fce995e2eb323dbc6831bb5a
   SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
 
-PODFILE CHECKSUM: a61c4ebf13aa7a14af08758f7003b9a884b07bd9
+PODFILE CHECKSUM: 1c8e4416c28a070de9a7ddd11877504da37021c3
 
 COCOAPODS: 1.6.1
